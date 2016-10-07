@@ -1,0 +1,2 @@
+# ninjs-imagick
+ImageMagick wrapper
